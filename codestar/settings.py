@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get("DEVELOPMENT")
 
-ALLOWED_HOSTS = ['codestar-blog-ispeakfishlang.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['codestar-blog-ispeakfishlang-f5bd9672f237.herokuapp.com', 'localhost']
 
 
 # Application definition
