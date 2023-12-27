@@ -1,1 +1,1 @@
-web: gunicorn codestar-blog-ispeakfishlang.wsgi
+web: gunicorn codestar.wsgi
