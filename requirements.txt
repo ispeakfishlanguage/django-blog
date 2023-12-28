@@ -13,8 +13,9 @@ cryptography==41.0.7
 defusedxml==0.7.1
 dj-database-url==0.5.0
 dj3-cloudinary-storage==0.0.6
-Django==3.2.23
+Django==5.0
 django-allauth==0.59.0
+django-crispy-forms==1.14.0
 django-summernote==0.8.20.0
 Flask==2.3.0
 Flask-SQLAlchemy==2.5.1
@@ -48,6 +49,7 @@ rsa==4.9
 six==1.16.0
 SQLAlchemy==1.4.46
 sqlparse==0.4.4
+tzdata==2023.3
 urllib3==1.26.15
 webencodings==0.5.1
 Werkzeug==3.0.1
